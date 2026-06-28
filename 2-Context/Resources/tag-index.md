@@ -8,4 +8,4 @@ Controlled vocabulary for this vault. Claude Code must check this list before ap
 - If no existing tag fits, propose a new one to the user before adding it — do not silently invent tags.
 
 ## Active tags
-(empty — first tags get added here as notes are created)
+- career — job-seeking, professional growth, recruiters
