@@ -1,0 +1,24 @@
+{
+  "id": "conv-1782768483229-guokfovo6",
+  "providerId": "claude",
+  "title": "Link external folders in Obsidian",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782768483235,
+  "updatedAt": 1782772058945,
+  "lastResponseAt": 1782772058945,
+  "sessionId": "31291e9e-5736-4fa2-90de-24ea3615a46e",
+  "providerState": {
+    "providerSessionId": "31291e9e-5736-4fa2-90de-24ea3615a46e"
+  },
+  "currentNote": "CLAUDE.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 302,
+    "cacheReadInputTokens": 29135,
+    "contextWindow": 200000,
+    "contextTokens": 29445,
+    "percentage": 15,
+    "contextWindowIsAuthoritative": true
+  }
+}
